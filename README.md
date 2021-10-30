@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1040668)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# WinUI GridControl - Print GridControl Data
+# WinUI GridControl - Print GridControl Data in Code
 
 This example prints [GridControl](https://docs.devexpress.com/WinUI/DevExpress.WinUI.Grid.GridControl) data on a default system printer.
 
