@@ -12,8 +12,8 @@ Reference the `DevExpress.WinUI.Grid.Printing` namespace and call the [Print](ht
 <!-- default file list -->
 ## Files to Look At
 
-- [GridPage.xaml](./CS/PrintGridControl/PrintGridControl/Views/GridPage.xaml) (VB: [GridPage.xaml](./VB/PrintGridControl/PrintGridControl/Views/GridPage.xaml))
-- [GridPage.xaml.cs](./CS/PrintGridControl/PrintGridControl/Views/GridPage.xaml.cs) (VB: [GridPage.xaml.vb](./CS/PrintGridControl/PrintGridControl/Views/GridPage.xaml.vb))
+- [GridPage.xaml](./CS/PrintGridControl/PrintGridControl/Views/GridPage.xaml)
+- [GridPage.xaml.cs](./CS/PrintGridControl/PrintGridControl/Views/GridPage.xaml.cs)
 <!-- default file list end -->
 
 ## Documentation
